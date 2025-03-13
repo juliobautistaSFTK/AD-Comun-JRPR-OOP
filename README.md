@@ -22,6 +22,3 @@ Este ejercicio forma parte de 3 en total, la siguiente tabla muestra cómo se to
 # Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
 
-
-#### Ambientación del ejercicio 
-Este ejercicio contiene instrucciones que ambientan e instalan lo necesario para el ejercicio, a excepción que el ejercicio incluya ambientar o instalar.
