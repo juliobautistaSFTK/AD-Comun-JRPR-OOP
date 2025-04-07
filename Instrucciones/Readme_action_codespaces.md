@@ -10,7 +10,7 @@ Deberías ver una imagen como la siguiente:
 
 ![Descripción de la imagen](../Imagenes/Img52.png) 
 
-3.-El seleccionar la pestaña aparece un renglon y al acercar el puntero aparece un símbolo de internet, da clic.
+3.-Al seleccionar la pestaña aparece un renglon y al acercar el puntero aparece un símbolo de internet, da clic.
 
 ![Descripción de la imagen](../Imagenes/Img53.png) 
 
