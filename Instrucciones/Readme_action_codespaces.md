@@ -10,22 +10,22 @@ Modelar en una herramienta CASE (no es código solo es modelado de clases) un se
 
 Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este repositorio, este ejercicio se basa en la sección "Temas: OOP Best Practices.".
 
-1.-Para acceder a un Codespace selecciona Code una vez dentro de tu repositorio.
+3.-Para acceder a un Codespace selecciona Code una vez dentro de tu repositorio.
 
 ![Descripción de la imagen](../Imagenes/Img14.png)
 
-2.-Tendremos esta ventana con 2 pestañas.
+4.-Tendremos esta ventana con 2 pestañas.
 
 ![Descripción de la imagen](../Imagenes/Img15.png)
 
-3.-Selecciona Codespaces.
+5.-Selecciona Codespaces.
 
 ![Descripción de la imagen](../Imagenes/Img16.png)
 
-4.-Tendrás esta pantalla, en este ejemplo el Codespace se generará con las instrucciones en la rama main. 
+6.-Tendrás esta pantalla, en este ejemplo el Codespace se generará con las instrucciones en la rama main. 
 
 Espera hasta que presente una pantalla similar a esta:
 
 ![Descripción de la imagen](../Imagenes/Img17.png)
 
-5.-Ya puedes utilizar este Codespace.
+7.-Ya puedes utilizar este Codespace.
