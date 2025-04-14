@@ -7,6 +7,9 @@ Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este reposit
 
 [Da clic para acceder a este repositorio](Instrucciones/Readme_participante.md)
 
+# **Uso de Codespaces**
+[Ver](Instrucciones/Readme_action_codespaces.md)
+
 # **Ejercicio: Uso de OOP Best Practices (Aviso: Este ejercicio forma parte de 3 en total)**
 
 Prerrequisito: Haber tomado los cursos internos de OOP Best Practices.
